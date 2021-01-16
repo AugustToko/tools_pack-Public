@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Project: tools_pack Public
+  ~ Module: toolspack_android
+  ~ Last Modified: 21-1-16 下午12:40
+  ~ Copyright (c) 2021 August https://blog.geek-cloud.top/
+  -->
+
+<paths>
+    <external-path
+        name="external_download"
+        path="Download" />
+</paths>

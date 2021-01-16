@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Project: tools_pack Public
+  ~ Module: toolspack_android
+  ~ Last Modified: 21-1-16 下午12:40
+  ~ Copyright (c) 2021 August https://blog.geek-cloud.top/
+  -->
+
+<resources>
+
+    <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <!-- Show a splash screen on the activity. Automatically removed when
+             Flutter draws its first frame -->
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+</resources>

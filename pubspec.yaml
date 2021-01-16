@@ -1,0 +1,55 @@
+name: toolspack
+description: Tools
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  taobaoke_shared:
+    git:
+      url: 'https://github.com/AugustToko/taobaoke_shared.git'
+      ref: '1.0.0+1'
+
+  shared:
+    git:
+      url: 'https://github.com/AugustToko/_shared.git'
+      ref: '1.0.0+1'
+
+  toolspacklibs:
+    git:
+      url: 'https://github.com/AugustToko/toolspack_libs.git'
+      ref: '1.0.0+3'
+
+  package_info: ^0.4.0+16
+  ota_update: ^2.2.1
+  permission_handler: ^5.0.0+hotfix.3
+  intro_slider: ^2.2.9
+  path_provider: ^1.6.5
+  qr_flutter: ^3.2.0
+  super_qr_reader: ^2.0.0
+  transformer_page_view: ^0.1.6
+  html: ^0.14.0+4
+  outline_material_icons: ^0.1.1
+  shared_preferences: ^0.5.12+4
+  url_launcher: ^5.7.10
+  flutter_html: ^1.2.0
+  flutter_web_browser: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/design_course/
+    - assets/wk_logo/

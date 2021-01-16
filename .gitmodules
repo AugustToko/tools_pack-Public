@@ -1,0 +1,12 @@
+[submodule "toolspack_libs"]
+	path = toolspack_libs
+	url = https://github.com/AugustToko/toolspack_libs.git
+[submodule "toolspack_shared"]
+	path = toolspack_shared
+	url = https://github.com/AugustToko/toolspack_shared.git
+[submodule "taobaoke_shared"]
+	path = taobaoke_shared
+	url = https://github.com/AugustToko/taobaoke_shared.git
+[submodule "_shared"]
+	path = _shared
+	url = https://github.com/AugustToko/_shared.git

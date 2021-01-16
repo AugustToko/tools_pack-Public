@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "982978629426",
+    "firebase_url": "https://toolspack-69207.firebaseio.com",
+    "project_id": "toolspack-69207",
+    "storage_bucket": "toolspack-69207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982978629426:android:718fc4a35c8b613e81112b",
+        "android_client_info": {
+          "package_name": "com.toolshouse.toolspack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982978629426-iusf9itk8hi2lnhhr21m6inv7spihlt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDk9gWFH9gMCI0eXEhAUFL90LMAS2rEAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982978629426-iusf9itk8hi2lnhhr21m6inv7spihlt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
