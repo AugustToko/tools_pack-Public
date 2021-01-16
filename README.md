@@ -4,6 +4,9 @@
 支持平台: Android, iOS (待测试)
 
 
+<img src="https://raw.githubusercontent.com/AugustToko/tools_pack-Public/master/screenshots/ss.png">
+
+
 # bug、不规范、错误之处
 状态管理不规范
 模块直接耦合
