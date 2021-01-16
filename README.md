@@ -27,3 +27,7 @@
 `toolspack_server`
 
 由于涉及到个人利益，暂不公开上述两个项目，如有疑问请开 issue
+
+
+# LICENSE
+GPL v3.0
