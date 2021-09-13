@@ -1,5 +1,7 @@
 # toolspack
 
+### 政策问题，停止开发。
+
 刷课客户端 Flutter 版本
 支持平台: Android, iOS (待测试)
 
